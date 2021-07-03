@@ -1,2 +1,6 @@
 # Itsy-Bitsy
-This is basically a LED node which is used to trigger neighbor node using IR
+A small LED pixel node which gets activated through external IR interrut.
+Placing in an array creates a colourful LED colour patterns.
+
+![Itsy-Bitsy](https://user-images.githubusercontent.com/86886546/124361763-62517f00-dc4e-11eb-8ec8-d0f1822cad8d.PNG)
+
